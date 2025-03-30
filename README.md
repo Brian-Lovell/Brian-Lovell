@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brian-Lovell
 - 👀 I’m interested in programming and virtual technology!
-- 🌱 I’m currently learning front end web dev and Nutanix tech
+- 🌱 I’m currently learning Software Engineering at WGU!
 - 📫 How to reach me brian.lovell@outlook.com
 
 <!---
